@@ -548,6 +548,18 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+
+	.my_photo {
+		width: 2in;
+		height: 2in;
+		border: 2px solid blue;
+		border-radius: 1in;
+		display: inline-block;
+
+	}
+
+
+
 /* List */
 
 	ol {
