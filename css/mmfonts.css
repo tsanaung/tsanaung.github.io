@@ -1,10 +1,10 @@
 @font-face { 
   font-family: "MMSagar"; 
-  src: url("https/tsanaung.github.io/fonts/MyanmarSagar.ttf") format("truetype"); /* Safari, Android, iOS */ 
+  src: url("https://tsanaung.github.io/fonts/MyanmarSagar.ttf") format("truetype"); /* Safari, Android, iOS */ 
 } 
 .mmsagar {
   font-family: MMSagar;
-  color: #00ff00;
+  //color: #00ff00;
 }
 .oneem {
   font-size: 1em;
