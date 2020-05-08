@@ -1,4 +1,11 @@
-.testfontc {
-  color: #ff0000;
-  background-color: #000000;
+@font-face { 
+  font-family: "MMSagar"; 
+  src: url("https/tsanaung.github.io/fonts/MyanmarSagar.ttf") format("truetype"); /* Safari, Android, iOS */ 
+} 
+.mmsagar {
+  font-family: MMSagar;
+}
+.oneem {
+  font-size: 1em;
+  padding: 1em;
 }
