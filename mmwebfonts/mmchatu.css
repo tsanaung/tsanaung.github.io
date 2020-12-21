@@ -1,4 +1,4 @@
 @font-face {
-  font-family: "Chatu";
-  src: url("KhmerType/MyanmarChatu.woff");
-} 
+font-family:'Chatu';
+src:local('Myanmar3'), url('https://tsanaung.github.io/mmwebfonts/KhmerType/MyanmarChatu.woff') format('woff'), url('https://tsanaung.github.io/mmwebfonts/KhmerType/MyanmarChatu.ttf') format('ttf');
+}
