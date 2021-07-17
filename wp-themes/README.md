@@ -5,5 +5,8 @@
 <p>URL : https://tsanaung.github.io/wp-themes/zoosnm.zip</p>
 
 <p>Theme name : SpringMM</p>
-<p>Version : 1.0.1 (Buggy Alpha)
+<p>Version : 1.0.1 (Buggy Alpha)</p>
 <p>URL : https://tsanaung.github.io/wp-themes/springmm.zip</p>
+<h2>Version : Beta (current)</h2>
+<p>URL : https://tsanaung.github.io/wp-themes/springmm_beta.zip</p>
+<a href="https://tsanaung.github.io/wp-themes/springmm_beta.zip"><h1>Download</h1></a>
