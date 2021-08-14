@@ -1,0 +1,40 @@
+#main-content {
+    padding-bottom: 20px;
+}
+h2 {
+    font-size: 20px;
+    display: block;
+    margin-top: 20px;
+}
+
+.type {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.type h3 {
+    font-size: 14px;
+}
+#display {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+#inputText {
+    display: block;
+    width: 100%;
+}
+.result {
+    margin: auto;
+    border: 1px solid #CCC;
+    padding: 10px;
+    margin-top: 10px;
+    flex: 0 0 320px;
+    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+}
+
+footer {
+    text-align: center;
+}
